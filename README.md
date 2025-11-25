@@ -1,7 +1,9 @@
 STA145- Final Project 
 
 This is my final project replication for STA-145, Applied Statistics for Social Science Majors, final project. Throughout the semester, my group and I collected data from the popular TV show, "F.R.I.E.N.D.S" and this project specifically focuses around my research question, "Do the amount of guest stars/having a guest star increase the ratings for an episode?"
+
 Instructions 
+
 To access and utilize my script, open the "zicchim1-final_project.R" file, which contains the code that I used for my project. To access the dataset, open the "Friends Group Project Sheet data (1) csv." file.
 
 Data 
