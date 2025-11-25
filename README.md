@@ -1,10 +1,15 @@
 STA145- Final Project 
+
 This is my final project replication for STA-145, Applied Statistics for Social Science Majors, final project. Throughout the semester, my group and I collected data from the popular TV show, "F.R.I.E.N.D.S" and this project specifically focuses around my research question, "Do the amount of guest stars/having a guest star increase the ratings for an episode?"
 Instructions 
 To access and utilize my script, open the "zicchim1-final_project.R" file, which contains the code that I used for my project. To access the dataset, open the "Friends Group Project Sheet data (1) csv." file.
+
 Data 
+
 The data collected for this project was the rating each episode of "F.R.I.E.N.D.S" received and if the episodes had any guest stars, the information for variable "ratings" was found on the website "IMBd" whiule the information for guest stars was found through watching the episodes. The main goal of this analysis was to determine if a show received higher ratings if it had a special guest star appearance. I analyzed their chance of receiving a higher ranking by if they had a guest star in the episode, and if it affected the ratings they would usually get. 
+
 Operationalization
+
 To operationalize the ratings for each episode of "F.R.I.E.N.D.S", I went to IMBd, which is a comprehensive online database of information about millions of movies, TV shows, and celebrities and wrote down the rating each episode received out of 10.
 
 For finding the episodes amount of guest stars (if they had any), I watched each episode and took note on if there was a guest star in the episode or not. I would put a 0 if there was not a guest star and a 1 if there was. 
