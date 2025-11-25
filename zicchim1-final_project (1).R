@@ -16,3 +16,21 @@ summary(data$ratings_episodes)
 boxplot(data$ratings_episodes ~ data$guest_stars )
 
 t.test(data$ratings_episodes ~ data$guest_stars )
+
+## Chi Squared
+chisq.test(data$ratings_episodes, data$guest_stars)
+
+# Creation of Residual 
+model <- lm(guest_stars ~ ratings_episodes, data = data)
+plot(fitted(model),
+     residuals(model),
+     xlab = "Fitted Values",
+     ylab = "Residuals",
+     main = "Residuals vs Fitted Values")
+abline(h = 0)
+plot(model$model$ratings_episodes,
+     residuals(model),
+     xlab = "Ratings",
+     ylab = "Residuals",
+     main = "Residuals vs Ratings")
+abline(h = 0)
