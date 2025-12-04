@@ -8,7 +8,7 @@ To access and utilize my script, open the "zicchim1-final_project.R" file, which
 
 Data 
 
-The data collected for this project was the rating each episode of "F.R.I.E.N.D.S" received and if the episodes had any guest stars, the information for variable "ratings" was found on the website "IMBd" whiule the information for guest stars was found through watching the episodes. The main goal of this analysis was to determine if a show received higher ratings if it had a special guest star appearance. I analyzed their chance of receiving a higher ranking by if they had a guest star in the episode, and if it affected the ratings they would usually get through all the data collected. 
+The data collected for this project was the rating each episode of "F.R.I.E.N.D.S" received and if the episodes had any guest stars, the information for variable "ratings" was found on the website "IMBd" while the information for guest stars was found through watching the episodes. The main goal of this analysis was to determine if a show received higher ratings if it had a special guest star appearance. I analyzed their chance of receiving a higher ranking by if they had a guest star in the episode, and if it affected the ratings they would usually get through all the data collected. 
 
 Operationalization
 
